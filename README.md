@@ -86,8 +86,7 @@ Here are several example questions you can ask (provided you have relevant filin
 
 ## License
 
-This project is open-source and free for research and educational use.  
-For production or commercial deployments, please ensure compliance with data privacy regulations and review relevant LLM provider terms.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
