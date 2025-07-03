@@ -1,5 +1,8 @@
 # RAG-Based Financial Research Assistant for Amazon
 
+![image](https://github.com/user-attachments/assets/a95a6e2f-90a9-4df8-95b9-810dcab1585a)
+
+
 ## Overview
 
 The **RAG-Based Financial Research Assistant** is an AI-powered, production-ready tool designed for financial analysts, investors, and business leaders. It leverages Retrieval-Augmented Generation (RAG) using Chroma vector indexing, open-source sentence-transformer embeddings, and Llama 3 LLM (via Groq) to answer complex natural language questions about Amazon's SEC filings (10-K, 10-Q) and earnings call transcripts.  
