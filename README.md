@@ -7,7 +7,7 @@
 
 Read the detailed publication here on ReadyTensor Channel.
 
-![Publication](https://app.readytensor.ai/publications/90Gdnmy5EuOR)
+[Publication](https://app.readytensor.ai/publications/90Gdnmy5EuOR)
 
 ## Overview
 
